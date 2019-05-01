@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CountryFlags">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Temp/CountryFlags.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoAdditionalJavaSEClasses/DemoAdditionalJavaSEClasses.iml" filepath="$PROJECT_DIR$/Demos/DemoAdditionalJavaSEClasses/DemoAdditionalJavaSEClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoAdditionalLanguageFeatures/DemoAdditionalLanguageFeatures.iml" filepath="$PROJECT_DIR$/Demos/DemoAdditionalLanguageFeatures/DemoAdditionalLanguageFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoArrays/DemoArrays.iml" filepath="$PROJECT_DIR$/Demos/DemoArrays/DemoArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoClasses/DemoClasses.iml" filepath="$PROJECT_DIR$/Demos/DemoClasses/DemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoCollectionsGenerics/DemoCollectionsGenerics.iml" filepath="$PROJECT_DIR$/Demos/DemoCollectionsGenerics/DemoCollectionsGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoExceptionsAssertions/DemoExceptionsAssertions.iml" filepath="$PROJECT_DIR$/Demos/DemoExceptionsAssertions/DemoExceptionsAssertions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoFileHandling/DemoFileHandling.iml" filepath="$PROJECT_DIR$/Demos/DemoFileHandling/DemoFileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoFileHandlingAdditionalTechniques/DemoFileHandlingAdditionalTechniques.iml" filepath="$PROJECT_DIR$/Demos/DemoFileHandlingAdditionalTechniques/DemoFileHandlingAdditionalTechniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoInheritance/DemoInheritance.iml" filepath="$PROJECT_DIR$/Demos/DemoInheritance/DemoInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoInnerClasses/DemoInnerClasses.iml" filepath="$PROJECT_DIR$/Demos/DemoInnerClasses/DemoInnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoInterfaces/DemoInterfaces.iml" filepath="$PROJECT_DIR$/Demos/DemoInterfaces/DemoInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoJDBC/DemoJDBC.iml" filepath="$PROJECT_DIR$/Demos/DemoJDBC/DemoJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoJavaLang/DemoJavaLang.iml" filepath="$PROJECT_DIR$/Demos/DemoJavaLang/DemoJavaLang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoJavaSE8/DemoJavaSE8.iml" filepath="$PROJECT_DIR$/Demos/DemoJavaSE8/DemoJavaSE8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoMultithreading/DemoMultithreading.iml" filepath="$PROJECT_DIR$/Demos/DemoMultithreading/DemoMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoNIO2/DemoNIO2.iml" filepath="$PROJECT_DIR$/Demos/DemoNIO2/DemoNIO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoOpFlow/DemoOpFlow.iml" filepath="$PROJECT_DIR$/Demos/DemoOpFlow/DemoOpFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoReflection/DemoReflection.iml" filepath="$PROJECT_DIR$/Demos/DemoReflection/DemoReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoStreams/DemoStreams.iml" filepath="$PROJECT_DIR$/Demos/DemoStreams/DemoStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoSwingContainersComponents/DemoSwingContainersComponents.iml" filepath="$PROJECT_DIR$/Demos/DemoSwingContainersComponents/DemoSwingContainersComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoSwingLayoutsDialogs/DemoSwingLayoutsDialogs.iml" filepath="$PROJECT_DIR$/Demos/DemoSwingLayoutsDialogs/DemoSwingLayoutsDialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/DemoSwingUI/DemoSwingUI.iml" filepath="$PROJECT_DIR$/Demos/DemoSwingUI/DemoSwingUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/MyFirstModule/MyFirstModule.iml" filepath="$PROJECT_DIR$/Demos/MyFirstModule/MyFirstModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionAdditionalJavaSEClasses/SolutionAdditionalJavaSEClasses.iml" filepath="$PROJECT_DIR$/Solutions/SolutionAdditionalJavaSEClasses/SolutionAdditionalJavaSEClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionAdditionalLanguageFeatures/SolutionAdditionalLanguageFeatures.iml" filepath="$PROJECT_DIR$/Solutions/SolutionAdditionalLanguageFeatures/SolutionAdditionalLanguageFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionArrays/SolutionArrays.iml" filepath="$PROJECT_DIR$/Solutions/SolutionArrays/SolutionArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionClasses/SolutionClasses.iml" filepath="$PROJECT_DIR$/Solutions/SolutionClasses/SolutionClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionCollectionsGenerics/SolutionCollectionsGenerics.iml" filepath="$PROJECT_DIR$/Solutions/SolutionCollectionsGenerics/SolutionCollectionsGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionExceptionsAssertions/SolutionExceptionsAssertions.iml" filepath="$PROJECT_DIR$/Solutions/SolutionExceptionsAssertions/SolutionExceptionsAssertions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionFileHandling/SolutionFileHandling.iml" filepath="$PROJECT_DIR$/Solutions/SolutionFileHandling/SolutionFileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionInheritance/SolutionInheritance.iml" filepath="$PROJECT_DIR$/Solutions/SolutionInheritance/SolutionInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionInnerClasses/SolutionInnerClasses.iml" filepath="$PROJECT_DIR$/Solutions/SolutionInnerClasses/SolutionInnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionInterfaces/SolutionInterfaces.iml" filepath="$PROJECT_DIR$/Solutions/SolutionInterfaces/SolutionInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionJDBC/SolutionJDBC.iml" filepath="$PROJECT_DIR$/Solutions/SolutionJDBC/SolutionJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionJavaLang/SolutionJavaLang.iml" filepath="$PROJECT_DIR$/Solutions/SolutionJavaLang/SolutionJavaLang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionJavaSE8/SolutionJavaSE8.iml" filepath="$PROJECT_DIR$/Solutions/SolutionJavaSE8/SolutionJavaSE8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionMultithreading/SolutionMultithreading.iml" filepath="$PROJECT_DIR$/Solutions/SolutionMultithreading/SolutionMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionOpFlow/SolutionOpFlow.iml" filepath="$PROJECT_DIR$/Solutions/SolutionOpFlow/SolutionOpFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionReflection/SolutionReflection.iml" filepath="$PROJECT_DIR$/Solutions/SolutionReflection/SolutionReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionStreams/SolutionStreams.iml" filepath="$PROJECT_DIR$/Solutions/SolutionStreams/SolutionStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionSwingContainersComponents/SolutionSwingContainersComponents.iml" filepath="$PROJECT_DIR$/Solutions/SolutionSwingContainersComponents/SolutionSwingContainersComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionSwingLayoutsDialogs/SolutionSwingLayoutsDialogs.iml" filepath="$PROJECT_DIR$/Solutions/SolutionSwingLayoutsDialogs/SolutionSwingLayoutsDialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/SolutionSwingUI/SolutionSwingUI.iml" filepath="$PROJECT_DIR$/Solutions/SolutionSwingUI/SolutionSwingUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentAdditionalJavaSEClasses/StudentAdditionalJavaSEClasses.iml" filepath="$PROJECT_DIR$/Student/StudentAdditionalJavaSEClasses/StudentAdditionalJavaSEClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentAdditionalLanguageFeatures/StudentAdditionalLanguageFeatures.iml" filepath="$PROJECT_DIR$/Student/StudentAdditionalLanguageFeatures/StudentAdditionalLanguageFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentArrays/StudentArrays.iml" filepath="$PROJECT_DIR$/Student/StudentArrays/StudentArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentClasses/StudentClasses.iml" filepath="$PROJECT_DIR$/Student/StudentClasses/StudentClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentCollectionsGenerics/StudentCollectionsGenerics.iml" filepath="$PROJECT_DIR$/Student/StudentCollectionsGenerics/StudentCollectionsGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentExceptionsAssertions/StudentExceptionsAssertions.iml" filepath="$PROJECT_DIR$/Student/StudentExceptionsAssertions/StudentExceptionsAssertions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentFileHandling/StudentFileHandling.iml" filepath="$PROJECT_DIR$/Student/StudentFileHandling/StudentFileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentInheritance/StudentInheritance.iml" filepath="$PROJECT_DIR$/Student/StudentInheritance/StudentInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentInnerClasses/StudentInnerClasses.iml" filepath="$PROJECT_DIR$/Student/StudentInnerClasses/StudentInnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentInterfaces/StudentInterfaces.iml" filepath="$PROJECT_DIR$/Student/StudentInterfaces/StudentInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentJDBC/StudentJDBC.iml" filepath="$PROJECT_DIR$/Student/StudentJDBC/StudentJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentJavaSE8/StudentJavaSE8.iml" filepath="$PROJECT_DIR$/Student/StudentJavaSE8/StudentJavaSE8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentMultithreading/StudentMultithreading.iml" filepath="$PROJECT_DIR$/Student/StudentMultithreading/StudentMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentOpFlow/StudentOpFlow.iml" filepath="$PROJECT_DIR$/Student/StudentOpFlow/StudentOpFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentReflection/StudentReflection.iml" filepath="$PROJECT_DIR$/Student/StudentReflection/StudentReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentStreams/StudentStreams.iml" filepath="$PROJECT_DIR$/Student/StudentStreams/StudentStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentSwingContainersComponents/StudentSwingContainersComponents.iml" filepath="$PROJECT_DIR$/Student/StudentSwingContainersComponents/StudentSwingContainersComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentSwingLayoutsDialogs/StudentSwingLayoutsDialogs.iml" filepath="$PROJECT_DIR$/Student/StudentSwingLayoutsDialogs/StudentSwingLayoutsDialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/StudentSwingUI/StudentSwingUI.iml" filepath="$PROJECT_DIR$/Student/StudentSwingUI/StudentSwingUI.iml" />
+    </modules>
+  </component>
+</project>
